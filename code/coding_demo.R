@@ -46,12 +46,6 @@ plot(x, y,
 abline(fit)
 
 
-# Attempting a conflict ---------------------------------------------------
-
-#will use this code to demo a conflict on git
-
-conflict1 <- TRUE     #dummy code
-
 
 
 
