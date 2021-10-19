@@ -46,9 +46,6 @@ plot(x, y,
 abline(fit)
 
 
-# create conflict ---------------------------------------------------------
-
-conflict <- TRUE
 
 
 
