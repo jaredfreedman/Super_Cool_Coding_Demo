@@ -45,10 +45,6 @@ plot(x, y,
      
 abline(fit)
 
-# Create a conflict
-
-conflict <- TRUE  #big dummy code
-
 
 # Attempting a conflict ---------------------------------------------------
 
