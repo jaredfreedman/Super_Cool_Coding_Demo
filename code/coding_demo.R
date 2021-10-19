@@ -47,8 +47,9 @@ abline(fit)
 
 
 # create conflict ---------------------------------------------------------
+#This doesn't really matter
 
-conflict <- TRUE
+conflict <- FALSE
 
 
 
